@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="holaColor">#3F51B5</color> <!-- Color azul para la palabra Hola -->
+    <color name="monColor">#FF5722</color>  <!-- Color rojo para la palabra mon -->
+</resources>
